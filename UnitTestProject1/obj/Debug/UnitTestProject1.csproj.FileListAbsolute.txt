@@ -1,0 +1,16 @@
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\ConsoleApp1.exe
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\ConsoleApp1.pdb
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\ConsoleApp1.exe.config
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Project\ConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Project\ConsoleApp1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Project\ConsoleApp1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Project\ConsoleApp1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Project\ConsoleApp1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
